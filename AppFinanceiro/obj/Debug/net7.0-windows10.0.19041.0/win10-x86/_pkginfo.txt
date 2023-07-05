@@ -1,0 +1,1 @@
+C:\Users\jeferson.souza\Desktop\TrabalhoDeCasa\Estudos\AppFinanceiro\AppFinanceiro\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppPackages\AppFinanceiro_1.0.2.0_Debug_Test\AppFinanceiro_1.0.2.0_x86_Debug.msix
